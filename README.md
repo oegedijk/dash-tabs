@@ -3,7 +3,7 @@
 Demonstrates a number of semi-advanced dash features such as
 - multiple tabs hierarchies,
 - Dash projects over multiple files
-- querystrings
+- querystrings for keeping track of the content of your dash app and to make it shareable as a url
 - etc
 
 But also the basic concepts such as
