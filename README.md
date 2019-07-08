@@ -1,5 +1,7 @@
 # Dash Demo for tutorial purposes
 
+by: Oege Dijk
+
 Demonstrates a number of semi-advanced dash features such as
 - multiple tabs hierarchies,
 - Dash projects over multiple files
